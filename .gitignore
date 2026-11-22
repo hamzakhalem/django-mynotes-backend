@@ -1,1 +1,22 @@
 # created by virtualenv automatically
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+myenv/
+env/
+.venv/
+/Lib/
+/Scripts/
+/Include/
+/share/
+/pyvenv.cfg
+
+# Local secrets
+.env
+
+# Local database
+*.sqlite3
